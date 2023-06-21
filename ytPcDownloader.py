@@ -4,7 +4,6 @@
 from pytube import YouTube
 from sys import argv
 
-
 # Using argv in order to access the link to the video from the command line (argv[0] has the name of this program).
 link = argv[1]
 # Creating a YouTube object named "yt", in which we store the link to the video we want to download.
