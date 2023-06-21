@@ -1,6 +1,6 @@
 # YOUTUBE MP3 DOWNLOADER FOR PC
 
-# Using "pip install pytube" or "pip3 install pytube" commands we can import the necessary YouTube library.
+# Using "pip install pytube" or "pip3 install pytube" commands we can use the necessary YouTube library.
 from pytube import YouTube
 from sys import argv
 
