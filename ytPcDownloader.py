@@ -9,7 +9,7 @@ link = argv[1]
 # Creating a YouTube object named "yt", in which we store the link to the video we want to download.
 yt = YouTube(link)
 
-# Print the title, the numbers of views the video has as well as its length.
+# Print the title, the number of views the video has as well as its length.
 print("Title: ", yt.title)
 print("Views: ", yt.views)
 print("Length: " + str(yt.length) + " sec")
