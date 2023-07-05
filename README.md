@@ -5,4 +5,4 @@ To ensure proper execution of the code in the ".py" file, the user needs to inst
 
 The code provided should be executed from the command line (cmd) on both Windows or Linux systems. Before running it, the user should navigate to the desired folder where they want the audio to be downloaded, copy its path and paste it to the appropriate place.
 
-Once the pytube package is installed and the desired folder is selected, the user can run the code in the .py file from the cmd / terminal, in order to perform the intended audio download.
+Once the pytube package is installed and the desired folder is selected, the user can run the code in the ".py" file from the cmd / terminal, in order to perform the intended audio download.
